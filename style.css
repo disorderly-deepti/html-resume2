@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Bree Serif', serif;
+    font-size: 3rem;
+    background-color: #FFBFBF;
+}
+
+img{
+    background-color: black;
+    border-radius: 20%;
+    padding: 2px;
+}
+body{
+    background-color: #FAF0E6;
+}
+h2{
+    font-family: 'Bree Serif', serif;
+    background-color: #FFBFBF;
+}
+p{
+    font-family: 'Bree Serif', serif;
+    background-color: #FFE5E5;
+}
+ul{
+    font-family: 'Bree Serif', serif;
+    background-color: #FFE5E5;
+}
+footer{
+    font-family: 'Bree Serif', serif;
+    background-color: #FFE5E5;
+}
